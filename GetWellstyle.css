@@ -1,0 +1,16 @@
+body{
+
+}
+
+.jumbotron{
+    background: url(images/rebecca-oliver-483486-unsplash.jpg) no-repeat top center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding: 40em 5em;
+    color:white;
+}
+
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
