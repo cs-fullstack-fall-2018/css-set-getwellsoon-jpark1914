@@ -6,11 +6,31 @@ body{
     background: url(images/rebecca-oliver-483486-unsplash.jpg) no-repeat top center fixed;
     -webkit-background-size: cover;
     background-size: cover;
-    padding: 40em 5em;
+    padding: 20em 5em;
     color:white;
 }
-
+p{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+}
 .title{
     text-align: center;
     text-decoration: underline;
+}
+
+.firstParagraph{
+    text-align: left;
+    display: inline-block;
+    padding:3%;
+    margin: 4px;
+}
+#photo1{
+    height:500px;
+    width: 500px;
+}
+
+.image{
+    position: relative;
+    float: right;
 }
